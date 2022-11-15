@@ -114,7 +114,7 @@ left: 64px;
   font-size: 24px;
   font-weight:normal;
   line-height: 34px;
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
   margin: 0;
 }
@@ -166,7 +166,7 @@ left: 64px;
 
 .table {
   display: flex;
-  flex-wrap: wrap;  
+  flex-wrap: wrap;
   list-style: none;
   padding: 0;
   margin: 0 auto;
@@ -184,7 +184,7 @@ left: 64px;
 .table__cell_heading {
   margin: 0;
   padding: 0;
-  padding-bottom: 20px;  
+  padding-bottom: 20px;
   text-align: left;
   white-space: normal;
   font-size: 24px;
