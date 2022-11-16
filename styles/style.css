@@ -181,7 +181,7 @@
   padding-top: 60px;
 }
 
-.table__cell-heading {
+.table__heading {
   margin: 0;
   padding: 0;
   font-size: 24px;
@@ -190,7 +190,7 @@
 
 }
 
-.table__cell-text {
+.table__text {
   margin: 0;
   padding-top: 20px;
   align-items: flex-start;
@@ -333,7 +333,6 @@
   line-height: 1.2;
 }
 
-/*Проверено*/
 .footer {
   background-color: #1f1f1f;
   color: #ffffff;
@@ -408,11 +407,6 @@
   margin: 0;
   padding: 0;
   text-align: left;
-}
-
-.footer__column-title {
-  margin: 0;
-  padding: 0;
 }
 
 .footer__column-link {
