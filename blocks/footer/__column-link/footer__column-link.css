@@ -1,11 +1,11 @@
 .footer__column-link {
   color: #ffffff;
   text-decoration: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
 }
 
 .footer__column-link:hover {
   opacity: 50%;
-  transition-property: opacity;
-  transition-duration: 1s;
-  transition-timing-function: linear;
 }

@@ -1,8 +1,5 @@
 .resources__link:hover {
   opacity: 50%;
-  transition-property: opacity;
-  transition-duration: 1s;
-  transition-timing-function: linear;
         
 }
 .resources__link {
@@ -10,4 +7,7 @@
   height: 38px;
   display: flex;
   justify-content: center;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
 }
