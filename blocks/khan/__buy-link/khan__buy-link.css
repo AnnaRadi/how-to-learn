@@ -10,6 +10,5 @@
   transition-timing-function: linear;
 }
 .khan__buy-link:hover {
-  height: fit-content;
   opacity: 50%;
     }
